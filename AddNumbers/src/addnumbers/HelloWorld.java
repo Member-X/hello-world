@@ -13,6 +13,7 @@ public class HelloWorld {
         // TODO code application logic here
         System.out.println("Adding 1 + 1 equals 2");
         System.out.println("Hello world, cruel world.");
+        System.out.println("This is a new line form the branch");
     }
     
 }
